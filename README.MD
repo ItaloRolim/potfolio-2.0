@@ -31,11 +31,13 @@ Este é um site pessoal desenvolvido por Italo Rolim para centralizar links impo
 |-- style.css
 |-- animationLoading.js
 |-- /img
-    |-- user-perfil.png
+    |-- favicon.ico
+    |-- foto-perfil.jpg
+    |-- ir-dev-link-bio-2.0.jpg
+    |-- logo-logic-flow.png
     |-- smile-icon.png
     |-- web-black-icon.png
     |-- web-white-icon.png
-    |-- tread-skateboard.jpg
 ```
 
 ## Contribuições
