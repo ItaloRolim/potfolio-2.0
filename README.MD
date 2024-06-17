@@ -1,6 +1,6 @@
 
 # Imagem do Projeto
-![imagem do projeto](./img/rm-dev-link-bio-2.0.png "Link Bio RM Dev 2.0")
+![imagem do projeto](./img/ir-dev-link-bio-2.0.jpg "Link Bio RM Dev 2.0")
 
 # Meus Links - Italo Rolim│Dev
 
