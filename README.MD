@@ -2,9 +2,9 @@
 # Imagem do Projeto
 ![imagem do projeto](./img/rm-dev-link-bio-2.0.png "Link Bio RM Dev 2.0")
 
-# Meus Links - Ricardo Moura│Dev
+# Meus Links - Italo Rolim│Dev
 
-Este é um site pessoal desenvolvido por Ricardo Moura para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais.
+Este é um site pessoal desenvolvido por Italo Rolim para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais.
 
 ## Características
 
@@ -38,19 +38,13 @@ Este é um site pessoal desenvolvido por Ricardo Moura para centralizar links im
     |-- tread-skateboard.jpg
 ```
 
-## Como Usar
-
-1. Clone o repositório em sua máquina local usando `git clone [URL do Repositório]`.
-2. Abra o arquivo `index.html` em um navegador para visualizar o site.
-3. Explore as diferentes seções clicando nos links e ícones disponíveis.
-
 ## Contribuições
 
 Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melhorar este projeto, sinta-se à vontade para fazer um fork do repositório e enviar sua pull request.
 
 ## Autor
 
-**Ricardo Moura**
-- [Perfil no GitHub](https://github.com/RicardoMouraa)
-- [LinkedIn](https://www.linkedin.com/in/ricardomouradev/)
-- [Instagram](https://www.instagram.com/riicardomoura/)
+**Italo Rolim**
+- [Perfil no GitHub](https://github.com/ItaloRolim)
+- [LinkedIn](https://www.linkedin.com/in/italo-rolim-86a390291/)
+- [Instagram](https://www.instagram.com/italoir_/)
