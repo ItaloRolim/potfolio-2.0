@@ -1,6 +1,6 @@
 
 # Imagem do Projeto
-![imagem do projeto](./img/ir-dev-link-bio-2.0.jpg "Link Bio RM Dev 2.0")
+![imagem do projeto](./img/ir-dev-imagem-pronta.jpg "Link Bio RM Dev 2.0")
 
 # Meus Links - Italo Rolim│Dev
 
@@ -33,7 +33,7 @@ Este é um site pessoal desenvolvido por Italo Rolim para centralizar links impo
 |-- /img
     |-- favicon.ico
     |-- foto-perfil.jpg
-    |-- ir-dev-link-bio-2.0.jpg
+    |-- ir-dev-imagem-pronta.jpg
     |-- logo-logic-flow.png
     |-- smile-icon.png
     |-- web-black-icon.png
