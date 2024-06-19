@@ -32,7 +32,7 @@ Este é um site pessoal desenvolvido por Italo Rolim para centralizar links impo
 |-- animationLoading.js
 |-- /img
     |-- favicon.ico
-    |-- foto-perfil.jpg
+    |-- foto-de-perfil.jpg
     |-- ir-dev-imagem-pronta.jpg
     |-- logo-logic-flow.png
     |-- smile-icon.png
